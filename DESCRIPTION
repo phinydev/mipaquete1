@@ -1,0 +1,17 @@
+Package: mipaquete1
+Title: Package de test pour calcul de moyenne
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Philippe",
+           family = "Marchal",
+           role = c("aut", "cre"),
+           email = "philippe.marchal@anfr.fr")
+Description: Calcul de moyenne.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr,
+    stats
